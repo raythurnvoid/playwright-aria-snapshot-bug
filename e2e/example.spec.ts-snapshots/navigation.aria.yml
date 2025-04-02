@@ -1,0 +1,13 @@
+- navigation "Main":
+  - link "Playwright logo Playwright":
+    - img "Playwright logo"
+  - link "Docs"
+  - link "API"
+  - button "Node.js"
+  - link "Community"
+  - link "GitHub repository"
+  - link "Discord server"
+  - button "Switch between dark and light mode (currently dark mode)" [pressed]:
+    - img
+  - button "Search (Ctrl+K)":
+    - img
